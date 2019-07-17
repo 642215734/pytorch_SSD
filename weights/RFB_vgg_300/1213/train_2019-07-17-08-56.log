@@ -1,0 +1,11 @@
+Epoch:1 || epochiter: 0/5968|| Totel iter 0 || L: 0.3407 C: 2.3837||Batch time: 9.9363 sec. ||LR: 0.00400000
+Epoch:1 || epochiter: 10/5968|| Totel iter 10 || L: 7.6528 C: 39.0019||Batch time: 4.2903 sec. ||LR: 0.00400000
+Epoch:1 || epochiter: 20/5968|| Totel iter 20 || L: 9.0119 C: 47.6372||Batch time: 5.7358 sec. ||LR: 0.00400000
+Epoch:1 || epochiter: 30/5968|| Totel iter 30 || L: 7.9460 C: 21.4325||Batch time: 4.9822 sec. ||LR: 0.00400000
+Epoch:1 || epochiter: 40/5968|| Totel iter 40 || L: 9.8428 C: 18.7096||Batch time: 5.4924 sec. ||LR: 0.00400000
+Epoch:1 || epochiter: 50/5968|| Totel iter 50 || L: 6.5300 C: 15.0719||Batch time: 5.3848 sec. ||LR: 0.00400000
+Epoch:1 || epochiter: 60/5968|| Totel iter 60 || L: 5.6916 C: 14.9479||Batch time: 4.4762 sec. ||LR: 0.00400000
+Epoch:1 || epochiter: 70/5968|| Totel iter 70 || L: 4.8084 C: 10.1861||Batch time: 6.8873 sec. ||LR: 0.00400000
+Epoch:1 || epochiter: 80/5968|| Totel iter 80 || L: 5.9486 C: 15.3053||Batch time: 6.2093 sec. ||LR: 0.00400000
+Epoch:1 || epochiter: 90/5968|| Totel iter 90 || L: 3.7850 C: 11.0550||Batch time: 4.6857 sec. ||LR: 0.00400000
+Epoch:1 || epochiter: 100/5968|| Totel iter 100 || L: 4.0568 C: 10.6469||Batch time: 5.2044 sec. ||LR: 0.00400000
